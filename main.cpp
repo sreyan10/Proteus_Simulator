@@ -21,7 +21,7 @@ DigitalOutputPin walk2(XXXX);
 int main(){
 	LCD.Clear();
 	LCD.WriteLine("Waiting for touch.");
-
+	int i = 2;
 	XXXX // Declare variables
 	while (XXXX) {
 		// Screen is not being touched
